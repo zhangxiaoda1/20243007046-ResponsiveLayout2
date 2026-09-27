@@ -85,7 +85,7 @@
         android:layout_weight="1"
         android:text="@string/app_label"
         android:textColor="@color/white"
-        android:textSize="16sp"
+        android:textSize="18sp"
         android:gravity="center" />
 
     <LinearLayout
